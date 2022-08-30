@@ -6,16 +6,20 @@
           <item>
             <title>Version 2.0.5847</title>
             <pubDate>Mon, 24 Jul 2022 16:53:00 +1000</pubDate>
-            <sparkle:criticalUpdate sparkle:version="2.0.5847"></sparkle:criticalUpdate>
               <sparkle:minimumAutoupdateVersion>2.0.0</sparkle:minimumAutoupdateVersion>
             <enclosure url="https://play.google.com/store/apps/details?id=com.ctmau.app.simples" sparkle:version="2.0.5847" sparkle:os="android" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
           </item>
           <item>
             <title>Version 2.0.5847</title>
             <pubDate>Mon, 24 Jul 2022 16:53:00 +1000</pubDate>
-            <sparkle:criticalUpdate sparkle:version="2.0.5847"></sparkle:criticalUpdate>
             <sparkle:minimumAutoupdateVersion>2.0.0</sparkle:minimumAutoupdateVersion>
             <enclosure url="https://apps.apple.com/au/app/simples-compare-save/id1475703699" sparkle:version="2.0.5847" sparkle:os="ios" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
            </item>
         </items>
     </channel>
